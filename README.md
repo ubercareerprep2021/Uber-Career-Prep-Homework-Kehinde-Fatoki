@@ -4,7 +4,7 @@ Assignment 1
   
   Part 2 - done
   
-  Part 3 - not completed
+  Part 3 - done
   
   Part 4 - not completed
   
